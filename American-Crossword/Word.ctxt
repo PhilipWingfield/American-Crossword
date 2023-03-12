@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Word
+comment0.text=\r\n\r\n\ @author\ (Filippos\ Ouingkfilnt)\r\n\ @version\ (12\ December\ 2022)\r\n
+comment1.params=newWord\ newX\ newY\ newDirection
+comment1.target=Word(java.lang.String,\ int,\ int,\ char)
+comment2.params=
+comment2.target=char\ getDirection()
+comment3.params=
+comment3.target=java.lang.String\ getWord()
+comment4.params=
+comment4.target=java.lang.String\ getWordInfo()
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+numComments=7
